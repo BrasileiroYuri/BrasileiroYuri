@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrasileiroYuri
-- 👀 I’m interested in Java SE, JAVA EE and Spring Development.
+- 👀 I’m interested in C++, JAVA, and Spring Development.
 - 🌱 I’m currently learning REST architecture and Spring.
 - 💞️ I’m looking to collaborate on Spring projects.
 - 📫 How to reach me: yurimax322@gmail.com
